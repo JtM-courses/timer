@@ -1,0 +1,21 @@
+{
+  "name": "vagrant/html",
+  "authors": [
+    {
+      "name": "JtM"
+    }
+  ],
+  "require": {
+    "php": "^7.1"
+  },
+  "autoload": {
+    "psr-4": {
+      "JtM\\Timer\\": "src/"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "test\\": "test/"
+    }
+  }
+}
