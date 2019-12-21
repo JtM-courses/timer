@@ -1,5 +1,5 @@
 {
-  "name": "vagrant/html",
+  "name": "JtM/Timer",
   "authors": [
     {
       "name": "JtM"
@@ -11,11 +11,6 @@
   "autoload": {
     "psr-4": {
       "JtM\\Timer\\": "src/"
-    }
-  },
-  "autoload-dev": {
-    "psr-4": {
-      "test\\": "test/"
     }
   }
 }
